@@ -1,0 +1,16 @@
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\bin\Debug\HealtyLifeApp.FoodClassifier.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\bin\Debug\HealtyLifeApp.FoodClassifier.pdb
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\obj\Debug\HealtyLifeApp.FoodClassifier.csprojResolveAssemblyReference.cache
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\obj\Debug\HealtyLifeApp.FoodClassifier.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\obj\Debug\HealtyLifeApp.FoodClassifier.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\bin\Debug\HealtyLifeApp.FoodClassifier.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\bin\Debug\HealtyLifeApp.FoodClassifier.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\bin\Debug\HealtyLifeApp.FoodClassifier.DataProvider.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\bin\Debug\HealtyLifeApp.FoodClassifier.DataProvider.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\obj\Debug\HealtyLifeApp.FoodClassifier.csprojResolveAssemblyReference.cache
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\obj\Debug\HealtyLifeApp.FoodClassifier.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\obj\Debug\HealtyLifeApp.FoodClassifier.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\bin\Debug\HealtyLifeApp.DataProvider.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\bin\Debug\EntityFramework.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\bin\Debug\HealtyLifeApp.DataProvider.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier\bin\Debug\EntityFramework.xml

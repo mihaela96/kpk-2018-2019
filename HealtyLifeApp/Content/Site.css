@@ -1,0 +1,105 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+body {
+    background-image:url("1.jpg");
+    height: 70%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.healty-food-home-page {
+    margin-left:210px;
+}
+
+.home-header {
+    font-size:larger;
+    font-weight:bolder;
+    padding-top:20px;
+    padding-bottom:40px;
+    margin:20px;
+    width:40%;
+    background-image:url("5.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    padding-left: 14px;
+    padding-right:14px;
+}
+
+.home-container{
+    font-size:large;
+    padding-top:20px;
+    padding-bottom:40px;
+    background-image:url("5.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:80%;
+    padding-left: 14px;
+    padding-right:14px;
+}
+
+.healty-food-navigation-conatiner {
+    margin:30px;
+    font-size:23px;
+    width:60%;
+}
+
+.food-classifier-container label {
+    float: left;
+}
+
+.food-classifier-main {
+    margin-left:0px;
+}
+.food-classifier-container, .food-classifier-header, .food-classifier-main div {
+    padding:30px;
+    margin:10px;
+    background-image:url("5.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.additive-label {
+    font-weight:bold;
+    font-size:larger;
+}
+
+.classification-result {
+    padding:30px;
+    margin:10px;
+    background-image:url("5.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight:bold;
+    font-size:larger;
+}

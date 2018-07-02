@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<div class="healty-food-home-page">
+    <div class="home-header">
+            <p>"The food you eat can be either the safest</p>
+            <p>and most powerful form of medicine</p> 
+            <p>or the slowest form of poison."</p>
+    </div>
+
+    <div class="home-container">
+        <p>This application is a good start up of your healty lifestyle.</p>
+        <p>Start with checking if your snack (with unknown preservetives on the label) is good for eat!</p>
+        
+        <div class="healty-food-navigation-conatiner">
+            <div class="navbar-collapse collapse">
+                <ul class="nav" >
+                    <li>@Html.ActionLink("Check your food", "Index", "FoodClassifier")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

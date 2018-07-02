@@ -1,0 +1,16 @@
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\bin\Debug\HealtyLifeApp.DataProvider.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\bin\Debug\HealtyLifeApp.DataProvider.pdb
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\obj\Debug\HealtyLifeApp.DataProvider.csprojResolveAssemblyReference.cache
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\obj\Debug\HealtyLifeApp.DataProvider.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\obj\Debug\HealtyLifeApp.DataProvider.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\bin\Debug\HealtyLifeApp.DataProvider.dll.config
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\bin\Debug\HealtyLifeApp.DataProvider.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\bin\Debug\HealtyLifeApp.DataProvider.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\bin\Debug\EntityFramework.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\bin\Debug\EntityFramework.SqlServer.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\bin\Debug\EntityFramework.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\bin\Debug\EntityFramework.SqlServer.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\obj\Debug\HealtyLifeApp.DataProvider.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\obj\Debug\HealtyLifeApp.DataProvider.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\obj\Debug\HealtyLifeApp.DataProvider.Migrations.Initial.resources
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.DataProvider\obj\Debug\HealtyLifeApp.DataProvider.csproj.GenerateResource.Cache

@@ -1,0 +1,116 @@
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\ApplicationInsights.config
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\csc.exe
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\vbc.exe
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\VBCSCompiler.exe
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\HealtyLifeApp.dll.config
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\HealtyLifeApp.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\HealtyLifeApp.pdb
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Antlr3.Runtime.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.Web.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.WindowsServer.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.ApplicationInsights.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Newtonsoft.Json.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Helpers.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Mvc.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Optimization.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Razor.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.WebPages.Deployment.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.WebPages.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.WebPages.Razor.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\WebGrease.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.Web.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.WindowsServer.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.ApplicationInsights.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Helpers.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Mvc.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Optimization.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Razor.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.WebPages.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.WebPages.Deployment.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.WebPages.Razor.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Antlr3.Runtime.pdb
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Newtonsoft.Json.xml
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\obj\Debug\HealtyLifeApp.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\obj\Debug\HealtyLifeApp.pdb
+D:\Mihi\HealtyLifeApp\HealtyLifeApp\obj\Debug\HealtyLifeApp.Client.csprojResolveAssemblyReference.cache
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\ApplicationInsights.config
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\csc.exe
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\System.Collections.Immutable.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\vbc.exe
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\VBCSCompiler.exe
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\roslyn\VBCSCompiler.exe.config
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\HealtyLifeApp.dll.config
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\HealtyLifeApp.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\HealtyLifeApp.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Antlr3.Runtime.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.Web.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.WindowsServer.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.ApplicationInsights.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.Web.Infrastructure.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Newtonsoft.Json.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Helpers.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Mvc.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Optimization.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Razor.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.WebPages.Deployment.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.WebPages.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.WebPages.Razor.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\WebGrease.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.Web.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.AI.WindowsServer.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.ApplicationInsights.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Helpers.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Mvc.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Optimization.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.Razor.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.WebPages.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.WebPages.Deployment.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\System.Web.WebPages.Razor.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Antlr3.Runtime.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\Newtonsoft.Json.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\obj\Debug\HealtyLifeApp.Client.csprojResolveAssemblyReference.cache
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\obj\Debug\HealtyLifeApp.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\obj\Debug\HealtyLifeApp.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\EntityFramework.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\EntityFramework.SqlServer.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\EntityFramework.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\EntityFramework.SqlServer.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\HealtyLifeApp.DataProvider.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\HealtyLifeApp.DataProvider.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\HealtyLifeApp.FoodClassifier.DataProvider.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\HealtyLifeApp.FoodClassifier.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\HealtyLifeApp.FoodClassifier.DataProvider.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp\bin\HealtyLifeApp.FoodClassifier.pdb

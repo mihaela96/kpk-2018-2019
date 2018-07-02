@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealtyLifeApp.Client", "HealtyLifeApp\HealtyLifeApp.Client.csproj", "{7E2DE0ED-108E-4B7C-A6B6-0A619E1A76E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealtyLifeApp.Tests", "HealtyLifeApp.Tests\HealtyLifeApp.Tests.csproj", "{74E2B9C1-6ABF-49A2-9091-677D051D6466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealtyLifeApp.DataProvider", "HealtyLifeApp.DataProvider\HealtyLifeApp.DataProvider.csproj", "{3F44F96E-BE41-4635-9B45-4F53343C7264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealtyLifeApp.FoodClassifier", "HealtyLifeApp.FoodClassifier\HealtyLifeApp.FoodClassifier.csproj", "{8C79AD75-3DD9-4E6A-A607-0B5C36057EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealtyLifeApp.FoodClassifier.DataProvider", "HealtyLifeApp.FoodClassifier.DataProvider\HealtyLifeApp.FoodClassifier.DataProvider.csproj", "{76F7EF54-2960-47F9-A0F1-EFC6E68FE26B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2DE0ED-108E-4B7C-A6B6-0A619E1A76E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2DE0ED-108E-4B7C-A6B6-0A619E1A76E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2DE0ED-108E-4B7C-A6B6-0A619E1A76E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2DE0ED-108E-4B7C-A6B6-0A619E1A76E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E2B9C1-6ABF-49A2-9091-677D051D6466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E2B9C1-6ABF-49A2-9091-677D051D6466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E2B9C1-6ABF-49A2-9091-677D051D6466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E2B9C1-6ABF-49A2-9091-677D051D6466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F44F96E-BE41-4635-9B45-4F53343C7264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F44F96E-BE41-4635-9B45-4F53343C7264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F44F96E-BE41-4635-9B45-4F53343C7264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F44F96E-BE41-4635-9B45-4F53343C7264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C79AD75-3DD9-4E6A-A607-0B5C36057EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C79AD75-3DD9-4E6A-A607-0B5C36057EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C79AD75-3DD9-4E6A-A607-0B5C36057EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C79AD75-3DD9-4E6A-A607-0B5C36057EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F7EF54-2960-47F9-A0F1-EFC6E68FE26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F7EF54-2960-47F9-A0F1-EFC6E68FE26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F7EF54-2960-47F9-A0F1-EFC6E68FE26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F7EF54-2960-47F9-A0F1-EFC6E68FE26B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

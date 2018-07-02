@@ -1,0 +1,17 @@
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\bin\Debug\HealtyLifeApp.FoodClassifier.DataProvider.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\bin\Debug\HealtyLifeApp.FoodClassifier.DataProvider.pdb
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\obj\Debug\HealtyLifeApp.FoodClassifier.DataProvider.csprojResolveAssemblyReference.cache
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\obj\Debug\HealtyLifeApp.FoodClassifier.DataProvider.dll
+D:\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\obj\Debug\HealtyLifeApp.FoodClassifier.DataProvider.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\bin\Debug\HealtyLifeApp.FoodClassifier.DataProvider.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\bin\Debug\HealtyLifeApp.FoodClassifier.DataProvider.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\obj\Debug\HealtyLifeApp.FoodClassifier.DataProvider.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\obj\Debug\HealtyLifeApp.FoodClassifier.DataProvider.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\bin\Debug\HealtyLifeApp.FoodClassifier.DataProvider.dll.config
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\bin\Debug\EntityFramework.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\bin\Debug\EntityFramework.SqlServer.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\bin\Debug\HealtyLifeApp.DataProvider.dll
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\bin\Debug\HealtyLifeApp.DataProvider.pdb
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\bin\Debug\EntityFramework.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\bin\Debug\EntityFramework.SqlServer.xml
+E:\UNIVERSITY!\9ти семестър\Mihi\HealtyLifeApp\HealtyLifeApp.FoodClassifier.DataProvider\obj\Debug\HealtyLifeApp.FoodClassifier.DataProvider.csprojResolveAssemblyReference.cache

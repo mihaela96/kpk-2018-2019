@@ -1,0 +1,83 @@
+﻿@model HealtyLifeApp.Models.FoodClassifier.FoodAdditives
+
+@{
+    ViewBag.Title = "FoodClassifier";
+}
+
+
+<div class="row food-classifier-header">
+    <h1>Additive in your food!</h1>
+    <p class="lead">Food additives are substances added to food to preserve flavor or enhance its taste, appearance, or other qualities. Some additives have been used for centuries; for example, preserving food by pickling (with vinegar), salting, as with bacon, preserving sweets or using sulfur dioxide as with wines. With the advent of processed foods in the second half of the twentieth century, many more additives have been introduced, of both natural and artificial origin.</p>
+    <p><a href="http://www.ukfoodguide.net/enumeric.htm" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<div class="row food-classifier-main">
+    <div class="col-md-4">
+        <h2>What are E numbers?</h2>
+        <p>
+            E numbers are unique codes for identifying different food additives used exclusively within the European Union. Every food additive has to be cleared by the European Food Safety Authority (EFSA) before it is given an 'E' number.
+            The European Food Safety Authority (EFSA) is the key organization in the European Union (EU) which is entitled to perform risk assessment regarding food and feed products safety. The organization was established in January 2002 to approve new food additives and communicate risks associated with the food chain.
+            The prefix letter "E" stands for "Europe" which is distinctly mentioned on food labels throughout the European Union. E numbers are not popular in New Zealand and Australia. However, they are widely seen in Canada and Cooperation Council for the Arab States of the Gulf on imported European products.
+        </p>
+    </div>
+    <div class="col-md-4">
+        <h2>How safe are they?</h2>
+        <p>
+            Food Standards Australia and New Zealand (FSANZ) closely monitors the use of food additives, which Brent says undergo comprehensive safety assessments and are subject to regulatory scrutiny similar to pharmaceuticals and chemicals.
+            "The amount of data we get for a food additive compares with the amount of data that other agencies, such as the Office of Chemical Safety or the Therapeutic Goods Administration get."
+            In addition, food additives are scrutinised by the World Health Organisation, the United Nations Food and Agriculture Organisation and its joint expert committee on food additives.
+            Dr Anne Swain, dietitian from Royal Prince Alfred Hospital's allergy unit, says usually food additives aren't a problem. But they can become an issue when overconsumed, or if someone with a sensitivity to a particular additive consumes them.
+            The amount of an additive food manufacturers are able to add to foods is based on tests of what is reasonable and safe, not only at normal levels of consumption, but also allowing for overconsumption.
+            "Could you overconsume? Yes. But generally the levels that are allowed [to be added to foods] are taking that into account."
+        </p>
+    </div>
+    <div class="col-md-3">
+        <h2>Evaluating the health risk of food additives</h2>
+        <p>
+            WHO, in cooperation with the Food and Agriculture Organization of the United Nations (FAO), is responsible for assessing the risks to human health from food additives.
+            Risk assessment of food additives are conducted by an independent, international expert scientific group – the Joint FAO/WHO Expert Committee on Food Additives (JECFA).
+        </p>
+    </div>
+</div>
+
+@using (Html.BeginForm())
+{
+<div class="row food-classifier-container">
+    <h2>Test your food by typing the additives, written on the label</h2>
+    <div>
+        <div class="form-group row">
+            Additive for coloring(E100 - E181): @Html.TextBoxFor(x => x.Color)
+        </div>
+        <br />
+
+        <div class="form-group row">
+            Preservative(E200 - E290): @Html.TextBoxFor(x => x.Preservative)
+        </div>
+        <br />
+
+        <div class="form-group row">
+            Antioxidant(E296 - E340): @Html.TextBoxFor(x => x.Antioxidant)
+        </div>
+        <br />
+
+        <div class="form-group row">
+            AcidRegulator(E341 - E385): @Html.TextBoxFor(x => x.AcidRegulator)
+        </div>
+        <br />
+
+        <div class="form-group row">
+            Emulsifer(or stabiliser)(E400 - E495): @Html.TextBoxFor(x => x.Emulsifer)
+        </div>
+        <br />
+
+        <div class="form-group row">
+            Improving Agent(or new additive)(E500 - E1520): @Html.TextBoxFor(x => x.ImprovingAgent)
+        </div>
+        <br />
+
+    </div>
+    <button type="submit">Check Your Food!</button>
+</div>
+}
+
+
